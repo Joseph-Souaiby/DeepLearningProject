@@ -1,0 +1,32 @@
+# Data & documents
+data/
+proposal.pdf
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML / model artifacts
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+models/
+checkpoints/
+
+# Env & secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
