@@ -1,6 +1,7 @@
 # Data & documents
 data/
-proposal.pdf
+milestone.pdf
+report/
 
 # Python
 .venv/
