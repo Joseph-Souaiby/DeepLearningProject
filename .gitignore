@@ -2,6 +2,10 @@
 data/
 milestone.pdf
 report/
+milestone.txt
+proposal.txt
+README.pdf
+Milestone Template/
 
 # Python
 .venv/
@@ -11,6 +15,7 @@ __pycache__/
 .eggs/
 dist/
 build/
+.python-version
 
 # Jupyter
 .ipynb_checkpoints/

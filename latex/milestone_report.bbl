@@ -1,0 +1,62 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova]{devlin2019bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding.
+\newblock In \emph{Proceedings of NAACL-HLT}, 2019.
+\newblock URL \url{https://aclanthology.org/N19-1423/}.
+
+\bibitem[Dugan et~al.(2024)]{dugan2024raid}
+Liam Dugan et~al.
+\newblock Raid: A shared benchmark for robust ai detection.
+\newblock Hugging Face dataset, 2024.
+\newblock URL \url{https://huggingface.co/datasets/liamdugan/raid}.
+
+\bibitem[Gehrmann et~al.(2019)Gehrmann, Strobelt, and Rush]{gehrmann2019gltr}
+Sebastian Gehrmann, Hendrik Strobelt, and Alexander~M. Rush.
+\newblock Gltr: Statistical detection and visualization of generated text.
+\newblock In \emph{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations}, pp.\  111--116, 2019.
+\newblock URL \url{https://aclanthology.org/P19-3019/}.
+
+\bibitem[Guo et~al.(2023)Guo, Chen, Zhang, Wang, Zhang, and Zhang]{guo2023hc3}
+Bin Guo, Yuming Chen, Yuxuan Zhang, Jin Wang, Zhiqiang Zhang, and Yue Zhang.
+\newblock How close is chatgpt to human experts? comparison corpus, evaluation, and detection.
+\newblock \emph{arXiv preprint arXiv:2301.07597}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2301.07597}.
+
+\bibitem[Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, and Chen]{hu2022lora}
+Edward~J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu~Wang, and Weizhu Chen.
+\newblock Lora: Low-rank adaptation of large language models.
+\newblock \emph{International Conference on Learning Representations}, 2022.
+\newblock URL \url{https://arxiv.org/abs/2106.09685}.
+
+\bibitem[Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis, Zettlemoyer, and Stoyanov]{liu2019roberta}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov.
+\newblock Roberta: A robustly optimized bert pretraining approach.
+\newblock \emph{arXiv preprint arXiv:1907.11692}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1907.11692}.
+
+\bibitem[Mitchell et~al.(2023)Mitchell, Lee, Khazatsky, Manning, and Finn]{mitchell2023detectgpt}
+Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher~D. Manning, and Chelsea Finn.
+\newblock Detectgpt: Zero-shot machine-generated text detection using probability curvature.
+\newblock \emph{arXiv preprint arXiv:2301.11305}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2301.11305}.
+
+\bibitem[Thite(2026)]{thite2026kaggle}
+Sunil Thite.
+\newblock Llm - detect ai generated text dataset.
+\newblock Kaggle dataset, 2026.
+\newblock URL \url{https://www.kaggle.com/datasets/sunilthite/llm-detect-ai-generated-text-dataset}.
+
+\bibitem[Uchendu et~al.(2021)Uchendu, Ma, Le, Zhang, and Lee]{uchendu2021turingbench}
+Adaku Uchendu, Zeyu Ma, Thai Le, Rui Zhang, and Dongwon Lee.
+\newblock Turingbench: A benchmark environment for turing test in the age of neural text generation.
+\newblock In \emph{Findings of the Association for Computational Linguistics: EMNLP}, pp.\  2001--2016, 2021.
+\newblock URL \url{https://aclanthology.org/2021.findings-emnlp.172/}.
+
+\end{thebibliography}
