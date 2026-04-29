@@ -73,10 +73,10 @@
 
 | Model | Train Set | In-Domain Acc (%) | OOD Acc (%) | OOD Δ vs. In-Domain |
 |---|---|---|---|---|
-| TF-IDF + LogReg *(prior milestone)* | Kaggle | 99.12 | 40.86 | −58.3 pp |
-| TF-IDF + LinearSVC *(prior milestone)* | Kaggle | 99.74 | 40.90 | −58.8 pp |
-| GLTR + LogReg *(prior milestone)* | Kaggle | 95.42 | 57.78 | −37.6 pp |
-| GLTR + LinearSVC *(prior milestone)* | Kaggle | 95.64 | 55.20 | −40.4 pp |
+| TF-IDF + LogReg **Baseline** | Kaggle | 99.12 | 40.86 | −58.3 pp |
+| TF-IDF + LinearSVC **Baseline** | Kaggle | 99.74 | 40.90 | −58.8 pp |
+| GLTR + LogReg **Baseline** | Kaggle | 95.42 | 57.78 | −37.6 pp |
+| GLTR + LinearSVC **Baseline** | Kaggle | 95.64 | 55.20 | −40.4 pp |
 | RoBERTa Full FT | Kaggle | 99.95 | 42.79 | −57.2 pp |
 | RoBERTa LoRA r=8 | Kaggle | 99.16 | 40.97 | −58.2 pp |
 | RoBERTa Full FT | RAID | 94.06 | 50.22 | −43.8 pp |
